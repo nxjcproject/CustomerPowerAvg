@@ -1,0 +1,4 @@
+C:\Users\Xu\Documents\Visual Studio 2012\Projects\CustomerPowerAvg\CustomerPowerAvg.Infrastructure\bin\Debug\CustomerPowerAvg.Infrastructure.dll
+C:\Users\Xu\Documents\Visual Studio 2012\Projects\CustomerPowerAvg\CustomerPowerAvg.Infrastructure\bin\Debug\CustomerPowerAvg.Infrastructure.pdb
+C:\Users\Xu\Documents\Visual Studio 2012\Projects\CustomerPowerAvg\CustomerPowerAvg.Infrastructure\obj\Debug\CustomerPowerAvg.Infrastructure.dll
+C:\Users\Xu\Documents\Visual Studio 2012\Projects\CustomerPowerAvg\CustomerPowerAvg.Infrastructure\obj\Debug\CustomerPowerAvg.Infrastructure.pdb

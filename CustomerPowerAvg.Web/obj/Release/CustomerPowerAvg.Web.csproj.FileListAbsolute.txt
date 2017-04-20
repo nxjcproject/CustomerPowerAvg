@@ -1,0 +1,16 @@
+C:\Users\Xu\Documents\Visual Studio 2012\Projects\CustomerPowerAvg\CustomerPowerAvg.Web\bin\CustomerPowerAvg.Web.dll
+C:\Users\Xu\Documents\Visual Studio 2012\Projects\CustomerPowerAvg\CustomerPowerAvg.Web\bin\CustomerPowerAvg.Web.pdb
+C:\Users\Xu\Documents\Visual Studio 2012\Projects\CustomerPowerAvg\CustomerPowerAvg.Web\bin\CustomerPowerAvg.Infrastructure.dll
+C:\Users\Xu\Documents\Visual Studio 2012\Projects\CustomerPowerAvg\CustomerPowerAvg.Web\bin\CustomerPowerAvg.Service.dll
+C:\Users\Xu\Documents\Visual Studio 2012\Projects\CustomerPowerAvg\CustomerPowerAvg.Web\bin\EasyUIJsonParser.dll
+C:\Users\Xu\Documents\Visual Studio 2012\Projects\CustomerPowerAvg\CustomerPowerAvg.Web\bin\WebStyleBaseForEnergy.dll
+C:\Users\Xu\Documents\Visual Studio 2012\Projects\CustomerPowerAvg\CustomerPowerAvg.Web\bin\WebUserContorls.Web.dll
+C:\Users\Xu\Documents\Visual Studio 2012\Projects\CustomerPowerAvg\CustomerPowerAvg.Web\bin\WebUserControls.Infrastructure.dll
+C:\Users\Xu\Documents\Visual Studio 2012\Projects\CustomerPowerAvg\CustomerPowerAvg.Web\bin\WebUserControls.Service.dll
+C:\Users\Xu\Documents\Visual Studio 2012\Projects\CustomerPowerAvg\CustomerPowerAvg.Web\bin\SqlServerDataAdapter.dll
+C:\Users\Xu\Documents\Visual Studio 2012\Projects\CustomerPowerAvg\CustomerPowerAvg.Web\bin\InternalMemeryRestore.dll
+C:\Users\Xu\Documents\Visual Studio 2012\Projects\CustomerPowerAvg\CustomerPowerAvg.Web\bin\CustomerPowerAvg.Infrastructure.pdb
+C:\Users\Xu\Documents\Visual Studio 2012\Projects\CustomerPowerAvg\CustomerPowerAvg.Web\bin\CustomerPowerAvg.Service.pdb
+C:\Users\Xu\Documents\Visual Studio 2012\Projects\CustomerPowerAvg\CustomerPowerAvg.Web\obj\Release\CustomerPowerAvg.Web.csprojResolveAssemblyReference.cache
+C:\Users\Xu\Documents\Visual Studio 2012\Projects\CustomerPowerAvg\CustomerPowerAvg.Web\obj\Release\CustomerPowerAvg.Web.dll
+C:\Users\Xu\Documents\Visual Studio 2012\Projects\CustomerPowerAvg\CustomerPowerAvg.Web\obj\Release\CustomerPowerAvg.Web.pdb

@@ -1,0 +1,8 @@
+C:\Users\Xu\Documents\Visual Studio 2012\Projects\CustomerPowerAvg\CustomerPowerAvg.Service\bin\Release\CustomerPowerAvg.Service.dll
+C:\Users\Xu\Documents\Visual Studio 2012\Projects\CustomerPowerAvg\CustomerPowerAvg.Service\bin\Release\CustomerPowerAvg.Service.pdb
+C:\Users\Xu\Documents\Visual Studio 2012\Projects\CustomerPowerAvg\CustomerPowerAvg.Service\bin\Release\CustomerPowerAvg.Infrastructure.dll
+C:\Users\Xu\Documents\Visual Studio 2012\Projects\CustomerPowerAvg\CustomerPowerAvg.Service\bin\Release\SqlServerDataAdapter.dll
+C:\Users\Xu\Documents\Visual Studio 2012\Projects\CustomerPowerAvg\CustomerPowerAvg.Service\bin\Release\CustomerPowerAvg.Infrastructure.pdb
+C:\Users\Xu\Documents\Visual Studio 2012\Projects\CustomerPowerAvg\CustomerPowerAvg.Service\obj\Release\CustomerPowerAvg.Service.csprojResolveAssemblyReference.cache
+C:\Users\Xu\Documents\Visual Studio 2012\Projects\CustomerPowerAvg\CustomerPowerAvg.Service\obj\Release\CustomerPowerAvg.Service.dll
+C:\Users\Xu\Documents\Visual Studio 2012\Projects\CustomerPowerAvg\CustomerPowerAvg.Service\obj\Release\CustomerPowerAvg.Service.pdb
