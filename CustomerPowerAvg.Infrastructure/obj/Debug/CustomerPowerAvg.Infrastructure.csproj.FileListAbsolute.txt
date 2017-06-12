@@ -2,3 +2,8 @@ C:\Users\Xu\Documents\Visual Studio 2012\Projects\CustomerPowerAvg\CustomerPower
 C:\Users\Xu\Documents\Visual Studio 2012\Projects\CustomerPowerAvg\CustomerPowerAvg.Infrastructure\bin\Debug\CustomerPowerAvg.Infrastructure.pdb
 C:\Users\Xu\Documents\Visual Studio 2012\Projects\CustomerPowerAvg\CustomerPowerAvg.Infrastructure\obj\Debug\CustomerPowerAvg.Infrastructure.dll
 C:\Users\Xu\Documents\Visual Studio 2012\Projects\CustomerPowerAvg\CustomerPowerAvg.Infrastructure\obj\Debug\CustomerPowerAvg.Infrastructure.pdb
+E:\三层框架\只放最新程序\CustomerPowerAvg\CustomerPowerAvg.Infrastructure\bin\Debug\CustomerPowerAvg.Infrastructure.dll
+E:\三层框架\只放最新程序\CustomerPowerAvg\CustomerPowerAvg.Infrastructure\bin\Debug\CustomerPowerAvg.Infrastructure.pdb
+E:\三层框架\只放最新程序\CustomerPowerAvg\CustomerPowerAvg.Infrastructure\obj\Debug\CustomerPowerAvg.Infrastructure.csprojResolveAssemblyReference.cache
+E:\三层框架\只放最新程序\CustomerPowerAvg\CustomerPowerAvg.Infrastructure\obj\Debug\CustomerPowerAvg.Infrastructure.dll
+E:\三层框架\只放最新程序\CustomerPowerAvg\CustomerPowerAvg.Infrastructure\obj\Debug\CustomerPowerAvg.Infrastructure.pdb

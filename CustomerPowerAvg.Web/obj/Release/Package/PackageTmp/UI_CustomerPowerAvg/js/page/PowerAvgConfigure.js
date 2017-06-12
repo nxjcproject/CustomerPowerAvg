@@ -19,7 +19,7 @@ function LoadMaterialList(value) {
             $('#material').combobox({
                 valueField: 'MaterialId',
                 textField:  'Name',
-                panelHeight: 'auto',
+                panelHeight: '300',
                 data: myData.rows,
                 onSelect: function (record) {
                 }
@@ -44,8 +44,8 @@ function LoadMainDataGrid(type, myData) {
                   {
                       field: 'edit', title: '编辑', width: 100, formatter: function (value, row, index) {
                           var str = "";
-                          str = '<a href="#" onclick="editFun(true,\'' + row.EquipmentGroupId + '\')"><img class="iconImg" src = "/lib/extlib/themes/images/ext_icons/notes/note_edit.png" title="编辑页面" onclick="editFun(true,\'' + row.EquipmentGroupId + '\')"/>编辑</a>';
-                          str = str + '<a href="#" onclick="deleteFun(\'' + row.EquipmentGroupId + '\')"><img class="iconImg" src = "/lib/extlib/themes/images/ext_icons/notes/note_delete.png" title="删除页面"  onclick="deleteFun(\'' + row.EquipmentGroupId + '\')"/>删除</a>';
+                          str = '<a href="#" onclick="editFun(true,\'' + row.EquipmentGroupId + '\')"><img class="iconImg" src = "/lib/extlib/themes/images/ext_icons/notes/note_edit.png" style="border:none;" title="编辑页面" onclick="editFun(true,\'' + row.EquipmentGroupId + '\')"/>编辑</a>';
+                          str = str + '<a href="#" onclick="deleteFun(\'' + row.EquipmentGroupId + '\')"><img class="iconImg" src = "/lib/extlib/themes/images/ext_icons/notes/note_delete.png" style="border:none;" title="删除页面"  onclick="deleteFun(\'' + row.EquipmentGroupId + '\')"/>删除</a>';
                           return str;
                       }
                   }

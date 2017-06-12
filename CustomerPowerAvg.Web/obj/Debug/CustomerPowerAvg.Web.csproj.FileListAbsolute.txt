@@ -14,3 +14,14 @@ C:\Users\Xu\Documents\Visual Studio 2012\Projects\CustomerPowerAvg\CustomerPower
 C:\Users\Xu\Documents\Visual Studio 2012\Projects\CustomerPowerAvg\CustomerPowerAvg.Web\obj\Debug\CustomerPowerAvg.Web.csprojResolveAssemblyReference.cache
 C:\Users\Xu\Documents\Visual Studio 2012\Projects\CustomerPowerAvg\CustomerPowerAvg.Web\obj\Debug\CustomerPowerAvg.Web.dll
 C:\Users\Xu\Documents\Visual Studio 2012\Projects\CustomerPowerAvg\CustomerPowerAvg.Web\obj\Debug\CustomerPowerAvg.Web.pdb
+E:\三层框架\只放最新程序\CustomerPowerAvg\CustomerPowerAvg.Web\bin\CustomerPowerAvg.Web.dll
+E:\三层框架\只放最新程序\CustomerPowerAvg\CustomerPowerAvg.Web\bin\CustomerPowerAvg.Web.pdb
+E:\三层框架\只放最新程序\CustomerPowerAvg\CustomerPowerAvg.Web\bin\CustomerPowerAvg.Infrastructure.dll
+E:\三层框架\只放最新程序\CustomerPowerAvg\CustomerPowerAvg.Web\bin\CustomerPowerAvg.Service.dll
+E:\三层框架\只放最新程序\CustomerPowerAvg\CustomerPowerAvg.Web\bin\SqlServerDataAdapter.dll
+E:\三层框架\只放最新程序\CustomerPowerAvg\CustomerPowerAvg.Web\bin\InternalMemeryRestore.dll
+E:\三层框架\只放最新程序\CustomerPowerAvg\CustomerPowerAvg.Web\bin\CustomerPowerAvg.Infrastructure.pdb
+E:\三层框架\只放最新程序\CustomerPowerAvg\CustomerPowerAvg.Web\bin\CustomerPowerAvg.Service.pdb
+E:\三层框架\只放最新程序\CustomerPowerAvg\CustomerPowerAvg.Web\obj\Debug\CustomerPowerAvg.Web.csprojResolveAssemblyReference.cache
+E:\三层框架\只放最新程序\CustomerPowerAvg\CustomerPowerAvg.Web\obj\Debug\CustomerPowerAvg.Web.dll
+E:\三层框架\只放最新程序\CustomerPowerAvg\CustomerPowerAvg.Web\obj\Debug\CustomerPowerAvg.Web.pdb
