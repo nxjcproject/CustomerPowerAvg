@@ -13,3 +13,11 @@ E:\三层框架\只放最新程序\CustomerPowerAvg\CustomerPowerAvg.Service\bin
 E:\三层框架\只放最新程序\CustomerPowerAvg\CustomerPowerAvg.Service\obj\Release\CustomerPowerAvg.Service.csprojResolveAssemblyReference.cache
 E:\三层框架\只放最新程序\CustomerPowerAvg\CustomerPowerAvg.Service\obj\Release\CustomerPowerAvg.Service.dll
 E:\三层框架\只放最新程序\CustomerPowerAvg\CustomerPowerAvg.Service\obj\Release\CustomerPowerAvg.Service.pdb
+C:\Users\Xu\Desktop\修改中\CustomerPowerAvg-master\CustomerPowerAvg.Service\bin\Release\CustomerPowerAvg.Service.dll
+C:\Users\Xu\Desktop\修改中\CustomerPowerAvg-master\CustomerPowerAvg.Service\bin\Release\CustomerPowerAvg.Service.pdb
+C:\Users\Xu\Desktop\修改中\CustomerPowerAvg-master\CustomerPowerAvg.Service\bin\Release\CustomerPowerAvg.Infrastructure.dll
+C:\Users\Xu\Desktop\修改中\CustomerPowerAvg-master\CustomerPowerAvg.Service\bin\Release\SqlServerDataAdapter.dll
+C:\Users\Xu\Desktop\修改中\CustomerPowerAvg-master\CustomerPowerAvg.Service\bin\Release\CustomerPowerAvg.Infrastructure.pdb
+C:\Users\Xu\Desktop\修改中\CustomerPowerAvg-master\CustomerPowerAvg.Service\obj\Release\CustomerPowerAvg.Service.csprojResolveAssemblyReference.cache
+C:\Users\Xu\Desktop\修改中\CustomerPowerAvg-master\CustomerPowerAvg.Service\obj\Release\CustomerPowerAvg.Service.dll
+C:\Users\Xu\Desktop\修改中\CustomerPowerAvg-master\CustomerPowerAvg.Service\obj\Release\CustomerPowerAvg.Service.pdb

@@ -29,6 +29,11 @@ namespace CustomerPowerAvg.Web.UI_CustomerPowerAvg
             }
         }
         [WebMethod]
+        public static char[] AuthorityControl()
+        {
+            return mPageOpPermission.ToArray();
+        }
+        [WebMethod]
         public static string GetPowerAvg(string mOrganizationId)
         {
             DataTable table = PowerAvgConfigureService.GetPowerAvgDataTable(mOrganizationId);
