@@ -13,3 +13,10 @@ E:\三层框架\只放最新程序\CustomerPowerAvg\CustomerPowerAvg.Service\bin
 E:\三层框架\只放最新程序\CustomerPowerAvg\CustomerPowerAvg.Service\obj\Debug\CustomerPowerAvg.Service.csprojResolveAssemblyReference.cache
 E:\三层框架\只放最新程序\CustomerPowerAvg\CustomerPowerAvg.Service\obj\Debug\CustomerPowerAvg.Service.dll
 E:\三层框架\只放最新程序\CustomerPowerAvg\CustomerPowerAvg.Service\obj\Debug\CustomerPowerAvg.Service.pdb
+C:\Users\Administrator\Desktop\NXJC统一调整列宽\CustomerPowerAvg-master\CustomerPowerAvg.Service\bin\Debug\CustomerPowerAvg.Service.dll
+C:\Users\Administrator\Desktop\NXJC统一调整列宽\CustomerPowerAvg-master\CustomerPowerAvg.Service\bin\Debug\CustomerPowerAvg.Service.pdb
+C:\Users\Administrator\Desktop\NXJC统一调整列宽\CustomerPowerAvg-master\CustomerPowerAvg.Service\bin\Debug\CustomerPowerAvg.Infrastructure.dll
+C:\Users\Administrator\Desktop\NXJC统一调整列宽\CustomerPowerAvg-master\CustomerPowerAvg.Service\bin\Debug\CustomerPowerAvg.Infrastructure.pdb
+C:\Users\Administrator\Desktop\NXJC统一调整列宽\CustomerPowerAvg-master\CustomerPowerAvg.Service\obj\Debug\CustomerPowerAvg.Service.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\NXJC统一调整列宽\CustomerPowerAvg-master\CustomerPowerAvg.Service\obj\Debug\CustomerPowerAvg.Service.dll
+C:\Users\Administrator\Desktop\NXJC统一调整列宽\CustomerPowerAvg-master\CustomerPowerAvg.Service\obj\Debug\CustomerPowerAvg.Service.pdb

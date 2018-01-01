@@ -25,3 +25,14 @@ E:\三层框架\只放最新程序\CustomerPowerAvg\CustomerPowerAvg.Web\bin\Cus
 E:\三层框架\只放最新程序\CustomerPowerAvg\CustomerPowerAvg.Web\obj\Debug\CustomerPowerAvg.Web.csprojResolveAssemblyReference.cache
 E:\三层框架\只放最新程序\CustomerPowerAvg\CustomerPowerAvg.Web\obj\Debug\CustomerPowerAvg.Web.dll
 E:\三层框架\只放最新程序\CustomerPowerAvg\CustomerPowerAvg.Web\obj\Debug\CustomerPowerAvg.Web.pdb
+C:\Users\Administrator\Desktop\NXJC统一调整列宽\CustomerPowerAvg-master\CustomerPowerAvg.Web\bin\CustomerPowerAvg.Web.dll
+C:\Users\Administrator\Desktop\NXJC统一调整列宽\CustomerPowerAvg-master\CustomerPowerAvg.Web\bin\CustomerPowerAvg.Web.pdb
+C:\Users\Administrator\Desktop\NXJC统一调整列宽\CustomerPowerAvg-master\CustomerPowerAvg.Web\bin\CustomerPowerAvg.Infrastructure.dll
+C:\Users\Administrator\Desktop\NXJC统一调整列宽\CustomerPowerAvg-master\CustomerPowerAvg.Web\bin\CustomerPowerAvg.Service.dll
+C:\Users\Administrator\Desktop\NXJC统一调整列宽\CustomerPowerAvg-master\CustomerPowerAvg.Web\bin\SqlServerDataAdapter.dll
+C:\Users\Administrator\Desktop\NXJC统一调整列宽\CustomerPowerAvg-master\CustomerPowerAvg.Web\bin\InternalMemeryRestore.dll
+C:\Users\Administrator\Desktop\NXJC统一调整列宽\CustomerPowerAvg-master\CustomerPowerAvg.Web\bin\CustomerPowerAvg.Infrastructure.pdb
+C:\Users\Administrator\Desktop\NXJC统一调整列宽\CustomerPowerAvg-master\CustomerPowerAvg.Web\bin\CustomerPowerAvg.Service.pdb
+C:\Users\Administrator\Desktop\NXJC统一调整列宽\CustomerPowerAvg-master\CustomerPowerAvg.Web\obj\Debug\CustomerPowerAvg.Web.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\NXJC统一调整列宽\CustomerPowerAvg-master\CustomerPowerAvg.Web\obj\Debug\CustomerPowerAvg.Web.dll
+C:\Users\Administrator\Desktop\NXJC统一调整列宽\CustomerPowerAvg-master\CustomerPowerAvg.Web\obj\Debug\CustomerPowerAvg.Web.pdb
